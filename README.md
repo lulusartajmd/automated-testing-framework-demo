@@ -37,7 +37,7 @@ The project is designed as a foundation for learning **API development, testing 
 git clone https://github.com/lulusartajmd/automated-testing-framework-demo.git
 cd automated-testing-framework-demo
 
-### 2. Create and Activate Virtual Environment
+# 2. Create and Activate Virtual Environment
 python -m venv venv
 # Activate
 # Windows
